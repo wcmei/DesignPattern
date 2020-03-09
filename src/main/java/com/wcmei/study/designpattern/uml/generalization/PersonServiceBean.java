@@ -1,0 +1,5 @@
+package com.wcmei.study.designpattern.uml.generalization;
+
+public class PersonServiceBean extends DaoSupport {
+
+}
